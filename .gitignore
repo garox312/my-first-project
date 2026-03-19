@@ -1,0 +1,40 @@
+# Os files
+.DS_Store
+
+# Lock files
+*.vlan
+.csproj
+.csproj.user
+*.usersdata
+*.lock.file
+
+# Node
+node_modules/
+
+.bridge_results
+
+# Python
+
+    __pycache__/
+    .pyc/
+    *.pycode
+    .iron
+    .inerentel
+    .tokens
+
+# Environment files
+*.env
+*.env.local
+
+# Logs
+*.log
+
+
+# Backup files
+*.bak
+.backup/
+
+*.swop
+
+# Visual Studio Code
+.vscode/
